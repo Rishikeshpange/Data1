@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tool_001",
+    "name": "Data Analyzer",
+    "description": "Analyzes structured data and provides insights",
+    "public": true,
+    "category": "analytics"
+  },
+  {
+    "id": "tool_002",
+    "name": "Text Summarizer",
+    "description": "Summarizes long text documents into concise summaries",
+    "public": true,
+    "category": "nlp"
+  },
+  {
+    "id": "tool_003",
+    "name": "Code Assistant",
+    "description": "Assists with code generation and review",
+    "public": true,
+    "category": "development"
+  },
+  {
+    "id": "tool_004",
+    "name": "Image Classifier",
+    "description": "Classifies images using machine learning models",
+    "public": true,
+    "category": "vision"
+  },
+  {
+    "id": "tool_005",
+    "name": "Sentiment Analyzer",
+    "description": "Analyzes sentiment in text content",
+    "public": true,
+    "category": "nlp"
+  }
+]
